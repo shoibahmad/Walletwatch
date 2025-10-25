@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://github.com/pinterest/ktlint/releases/download/1.0.1/ktlint" -OutFile "ktlint.jar"
